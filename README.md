@@ -11,7 +11,7 @@ https://youtu.be/2Mke7DH_oMc
 
 ## Juan Fernando Melo Areiza:
 
-![Tornado Mágico 1](placeholder)
+![Tornado Mágico 1](TornadoMagicoGIF.gif)
 
 (Also a Youtube Link, the gif looks awful)
 https://youtu.be/8ja6CArPE8o
