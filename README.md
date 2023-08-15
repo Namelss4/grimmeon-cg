@@ -1,5 +1,5 @@
 # grimmeon-cg
-Grimmeon studio's repo (with no Pipe) specifically made for computaciÃ³n grÃ¡fica.
+Grimmeon studio's repo (Without Pipe :C) specifically made for computaciÃ³n grÃ¡fica.
 
 # First excercise: Tornado
 ## Jerónimo Cano:
@@ -17,3 +17,4 @@ https://youtu.be/2Mke7DH_oMc
 https://youtu.be/8ja6CArPE8o
 
 ## Juan Pablo Correa Cataño:
+![Tornado JPcorrea](TornadoJPCorrea.gif)
