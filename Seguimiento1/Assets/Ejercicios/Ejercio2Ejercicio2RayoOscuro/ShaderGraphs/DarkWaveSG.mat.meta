@@ -1,10 +1,8 @@
 fileFormatVersion: 2
-guid: 1cbd6110a67c04c4fb7e269f4915a7e1
-labels:
-- 3d
-folderAsset: yes
-DefaultImporter:
+guid: 8eea5fb6093ef2345ae072d56b1b75bf
+NativeFormatImporter:
   externalObjects: {}
+  mainObjectFileID: 2100000
   userData: 
   assetBundleName: 
   assetBundleVariant: 
