@@ -37,7 +37,11 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BaseMap:
-        m_Texture: {fileID: 2800000, guid: 3372aa4d4a9abb7439898eb2526f8554, type: 3}
+        m_Texture: {fileID: 2800000, guid: 0f323e23fcec0f04180f415023bb4818, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_2e2a6c021e0d4290bd1d1c93bc650801_Texture_1:
+        m_Texture: {fileID: 2800000, guid: a0631b747b78b40449bbe86063d19774, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -58,9 +62,10 @@ Material:
     - _Blend: 2
     - _CastShadows: 1
     - _Cull: 2
-    - _DistortionAmount: 10
-    - _DistortionPower: 4
+    - _DistortionAmount: 1.26
+    - _DistortionPower: 3.45
     - _DstBlend: 1
+    - _ErotionStrenght: -0
     - _QueueControl: 0
     - _QueueOffset: 0
     - _SrcBlend: 5
@@ -69,5 +74,6 @@ Material:
     - _ZTest: 4
     - _ZWrite: 0
     - _ZWriteControl: 0
-    m_Colors: []
+    m_Colors:
+    - _Emission: {r: 1, g: 1, b: 1, a: 0}
   m_BuildTextureStacks: []
