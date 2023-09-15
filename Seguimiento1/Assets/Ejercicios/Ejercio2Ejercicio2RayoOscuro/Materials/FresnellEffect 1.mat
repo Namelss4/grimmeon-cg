@@ -53,12 +53,12 @@ Material:
     - _AlphaClip: 0
     - _Blend: 0
     - _CastShadows: 1
-    - _CoreSmoothness: 4.84
-    - _CoreStart: 0.3
+    - _CoreSmoothness: 4.87
+    - _CoreStart: 0.58
     - _Cull: 2
     - _DstBlend: 10
-    - _EdgeSmoothness: 0.4
-    - _EdgeStart: 0.14
+    - _EdgeSmoothness: 0.44
+    - _EdgeStart: 0.08
     - _QueueControl: 0
     - _QueueOffset: 0
     - _SrcBlend: 5
@@ -68,6 +68,6 @@ Material:
     - _ZWriteControl: 0
     m_Colors:
     - _CoreColor: {r: 0.745283, g: 0.05273228, b: 0.17789225, a: 0}
-    - _EdgeColor: {r: 0.9811321, g: 0.04704168, b: 0, a: 0}
+    - _EdgeColor: {r: 0.3584906, g: 0.10531194, b: 0.093004644, a: 0}
     - _InnerColor: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
