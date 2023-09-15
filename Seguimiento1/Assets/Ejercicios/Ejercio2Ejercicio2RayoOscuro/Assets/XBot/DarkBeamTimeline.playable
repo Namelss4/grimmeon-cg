@@ -216,7 +216,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Clip: {fileID: -203655887218126122, guid: 972a2219eb2f74047a2ff8fb72b7fc5f, type: 3}
   m_Position: {x: 0.824705, y: 0.0163193, z: -0.23639189}
-  m_EulerAngles: {x: 0.016, y: 24.17, z: -0.012}
+  m_EulerAngles: {x: 0.016, y: 26.52, z: -0.012}
   m_UseTrackMatchFields: 1
   m_MatchTargetFields: 63
   m_RemoveStartOffset: 1
