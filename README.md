@@ -1,5 +1,18 @@
-# grimmeon-cg
-Grimmeon studio's repo (Without Pipe :C) specifically made for computaciÃ³n grÃ¡fica.
+# Grimmeon: Computación Gráfica
+Grimmeon studio's repo specifically made for computación gráfica.
+
+# First group project: Dark beam
+
+## Video
+![DarkBeam](DarkBeamVFXHQ.gif)
+
+https://youtu.be/YYbyRFTxQ2c?si=nd1zYFKbkDVVH1IX
+
+## Comparison between value ranges (effect and reference):
+![ComparisonValues](CompEfectoReferencia.png)
+
+## Effect's value range:
+![DarkBeamValues](Values.png)
 
 # First excercise: Tornado
 ## Jerónimo Cano:
