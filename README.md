@@ -4,7 +4,8 @@ Grimmeon studio's repo specifically made for computación gráfica.
 # First group project: Dark beam
 
 ## Video
-![DarkBeam](DarkBeamVFXHQ.gif)
+
+![DarkBeam](DarkBeamVFX.gif)
 
 https://youtu.be/YYbyRFTxQ2c?si=nd1zYFKbkDVVH1IX
 
