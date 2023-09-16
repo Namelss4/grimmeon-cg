@@ -1,4 +1,4 @@
-# grimmeon-cg
+# Grimmeon: Computación Gráfica
 Grimmeon studio's repo specifically made for computación gráfica.
 
 # First group project: Dark beam
