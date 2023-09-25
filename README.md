@@ -1,5 +1,16 @@
 # Grimmeon: Computación Gráfica
 Grimmeon studio's repo specifically made for computación gráfica.
+# Second group project: Shaders
+## First Section: Masks
+### Multi-Channel Mask
+Material changing the 3 RBG chanels based on masks
+![Multi-channel](https://github.com/Namelss4/grimmeon-cg/assets/82065985/7e26390e-0914-45da-bcdc-7dfa272b76e5)
+
+Shader Graph:
+![Screenshot 2023-09-25 172641](https://github.com/Namelss4/grimmeon-cg/assets/82065985/154201d6-6e18-4a7a-955b-9f3215250fce)
+### Radial Procedural Mask
+#
+
 
 # First group project: Dark beam
 
