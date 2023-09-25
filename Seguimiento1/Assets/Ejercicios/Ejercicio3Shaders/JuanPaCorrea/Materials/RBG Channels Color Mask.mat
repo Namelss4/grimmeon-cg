@@ -53,9 +53,9 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _Color_BlueChannel: {r: 1, g: 1, b: 1, a: 0}
-    - _Color_GreenChannel: {r: 1, g: 1, b: 1, a: 0}
-    - _Color_RedChannel: {r: 1, g: 1, b: 1, a: 0}
+    - _Color_BlueChannel: {r: 1, g: 0.032495562, b: 0, a: 0}
+    - _Color_GreenChannel: {r: 1, g: 0, b: 0.83533955, a: 0}
+    - _Color_RedChannel: {r: 0.93048275, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &2318073991939112542
 MonoBehaviour:
