@@ -9,6 +9,12 @@ Material changing the 3 RBG chanels based on masks
 Shader Graph:
 ![Screenshot 2023-09-25 172641](https://github.com/Namelss4/grimmeon-cg/assets/82065985/154201d6-6e18-4a7a-955b-9f3215250fce)
 ### Radial Procedural Mask
+Masking Material with a sphere Mask Node
+![RadialMask](https://github.com/Namelss4/grimmeon-cg/assets/82065985/f8146f81-eb5f-4b13-b409-032841a160ab)
+
+Shader Graph: 
+![Screenshot 2023-09-26 094719](https://github.com/Namelss4/grimmeon-cg/assets/82065985/035c56cf-61a2-43f1-837d-6b2df530d3dd)
+
 #
 
 
