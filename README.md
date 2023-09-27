@@ -15,7 +15,11 @@ Masking Material with a sphere Mask Node
 Shader Graph: 
 ![Screenshot 2023-09-26 094719](https://github.com/Namelss4/grimmeon-cg/assets/82065985/035c56cf-61a2-43f1-837d-6b2df530d3dd)
 
-#
+## Third Section: Erosion - Jerónimo Cano Álvarez
+### Dissolve pre-made texture
+![Premade](DissolvePreMade.gif)
+
+![PremadeSS](SSDissolvePreMade.png)
 
 ## Fourth Section: Polar Coordinates - Team Work
 ### Procedural Polar Coordinates
