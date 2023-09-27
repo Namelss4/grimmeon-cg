@@ -17,7 +17,7 @@ Shader Graph:
 
 ## Second Section: Distortion - Juan Fernando Melo
 ### Refraction
-![Refraction](https://github.com/Namelss4/grimmeon-cg/assets/82065985/7e26390e-0914-45da-bcdc-7dfa272b76e5)
+![Refraction](CG-Refraction.gif)
 
 Shader Graph:
 ![NodesRefraction](RefractionNodes.png)
