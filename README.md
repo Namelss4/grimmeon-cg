@@ -27,10 +27,10 @@ Shader Graph:
 
 ### Mirrored Texture
 Tiling Texture based on a mirrored texture
-![PolarCoordinates](https://github.com/Namelss4/grimmeon-cg/assets/82065985/58dc8f14-6640-4ce8-80a1-dfdd7bd11142)
+![MirroredTexture](CG-MirroredText.gif)
 
 Shader Graph:
-![Screenshot 2023-09-26 210539](https://github.com/Namelss4/grimmeon-cg/assets/82065985/35d48c3e-44dd-4a1d-b9ef-69d0019b0565)
+![NodesMirroredText](NodosMirroredText.jpg)
 
 
 # First group project: Dark beam
