@@ -25,7 +25,12 @@ Tiling Textures based on Polar coordinates (Additional Center option)
 Shader Graph:
 ![Screenshot 2023-09-26 210539](https://github.com/Namelss4/grimmeon-cg/assets/82065985/35d48c3e-44dd-4a1d-b9ef-69d0019b0565)
 
+### Mirrored Texture
+Tiling Texture based on a mirrored texture
+![PolarCoordinates](https://github.com/Namelss4/grimmeon-cg/assets/82065985/58dc8f14-6640-4ce8-80a1-dfdd7bd11142)
 
+Shader Graph:
+![Screenshot 2023-09-26 210539](https://github.com/Namelss4/grimmeon-cg/assets/82065985/35d48c3e-44dd-4a1d-b9ef-69d0019b0565)
 
 
 # First group project: Dark beam
