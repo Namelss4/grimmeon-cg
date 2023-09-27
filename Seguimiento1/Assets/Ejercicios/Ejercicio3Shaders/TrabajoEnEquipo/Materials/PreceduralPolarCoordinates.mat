@@ -63,6 +63,7 @@ Material:
     - _QueueOffset: 0
     - _SrcBlend: 5
     - _Surface: 1
+    - _Tilling: 5.55
     - _ZTest: 4
     - _ZWrite: 0
     - _ZWriteControl: 0
