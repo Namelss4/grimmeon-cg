@@ -15,6 +15,13 @@ Masking Material with a sphere Mask Node
 Shader Graph: 
 ![Screenshot 2023-09-26 094719](https://github.com/Namelss4/grimmeon-cg/assets/82065985/035c56cf-61a2-43f1-837d-6b2df530d3dd)
 
+## Second Section: Distortion - Juan Fernando Melo
+### Refraction
+![Refraction](https://github.com/Namelss4/grimmeon-cg/assets/82065985/7e26390e-0914-45da-bcdc-7dfa272b76e5)
+
+Shader Graph:
+![NodesRefraction](https://github.com/Namelss4/grimmeon-cg/assets/82065985/154201d6-6e18-4a7a-955b-9f3215250fce)
+
 ## Third Section: Erosion - Jerónimo Cano Álvarez
 ### Dissolve pre-made texture
 ![Premade](DissolvePreMade.gif)
