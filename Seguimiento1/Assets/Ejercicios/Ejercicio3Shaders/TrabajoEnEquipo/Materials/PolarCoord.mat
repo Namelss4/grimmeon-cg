@@ -68,5 +68,5 @@ Material:
     - _ZWriteControl: 0
     m_Colors:
     - _Center: {r: 0.5, g: 0.5, b: 0, a: 0}
-    - _Tiling: {r: 4.45, g: 15, b: 0, a: 0}
+    - _Tiling: {r: 1.65, g: 2, b: 0, a: 0}
   m_BuildTextureStacks: []
