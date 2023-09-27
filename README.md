@@ -1,7 +1,7 @@
 # Grimmeon: Computación Gráfica
 Grimmeon studio's repo specifically made for computación gráfica.
 # Second group project: Shaders
-## First Section: Masks
+## First Section: Masks - Juan Pablo Correa
 ### Multi-Channel Mask
 Material changing the 3 RBG chanels based on masks
 ![Multi-channel](https://github.com/Namelss4/grimmeon-cg/assets/82065985/7e26390e-0914-45da-bcdc-7dfa272b76e5)
@@ -16,6 +16,16 @@ Shader Graph:
 ![Screenshot 2023-09-26 094719](https://github.com/Namelss4/grimmeon-cg/assets/82065985/035c56cf-61a2-43f1-837d-6b2df530d3dd)
 
 #
+
+## Fourth Section: Polar Coordinates - Team Work
+### Procedural Polar Coordinates
+Tiling Textures based on Polar coordinates (Additional Center option)
+![PolarCoordinates](https://github.com/Namelss4/grimmeon-cg/assets/82065985/58dc8f14-6640-4ce8-80a1-dfdd7bd11142)
+
+Shader Graph:
+![Screenshot 2023-09-26 210539](https://github.com/Namelss4/grimmeon-cg/assets/82065985/35d48c3e-44dd-4a1d-b9ef-69d0019b0565)
+
+
 
 
 # First group project: Dark beam
