@@ -20,7 +20,7 @@ Shader Graph:
 ![Refraction](https://github.com/Namelss4/grimmeon-cg/assets/82065985/7e26390e-0914-45da-bcdc-7dfa272b76e5)
 
 Shader Graph:
-![NodesRefraction](https://github.com/Namelss4/grimmeon-cg/assets/82065985/154201d6-6e18-4a7a-955b-9f3215250fce)
+![NodesRefraction](RefractionNodes.png)
 
 ## Third Section: Erosion - Jerónimo Cano Álvarez
 ### Dissolve pre-made texture
