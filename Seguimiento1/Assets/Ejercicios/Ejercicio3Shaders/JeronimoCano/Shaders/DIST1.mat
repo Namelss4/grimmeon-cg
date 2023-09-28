@@ -37,7 +37,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BaseMap:
-        m_Texture: {fileID: 2800000, guid: 3a0208e6e47408b44bd011e256f3d955, type: 3}
+        m_Texture: {fileID: 2800000, guid: 5ab15d56cbabbf648913f95a4913b7bc, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_2e2a6c021e0d4290bd1d1c93bc650801_Texture_1:
@@ -76,6 +76,6 @@ Material:
     - _ZWrite: 0
     - _ZWriteControl: 0
     m_Colors:
-    - _Color: {r: 0.75392663, g: 10.094239, b: 5.7382193, a: 0}
+    - _Color: {r: 0.39637068, g: 5.04712, b: 2.8802936, a: 0}
     - _Emission: {r: 1, g: 0.94274926, b: 0, a: 0}
   m_BuildTextureStacks: []
