@@ -28,6 +28,12 @@ Shader Graph:
 
 ![PremadeSS](SSDissolvePreMade.png)
 
+### Noise Dissolve
+![Untitled design (1)](https://github.com/Namelss4/grimmeon-cg/assets/82065985/d0aca960-421f-4aed-b5b8-68c7741e6c6d)
+
+![last](https://github.com/Namelss4/grimmeon-cg/assets/82065985/b9bcb3ac-fbd2-49d2-9878-9db9632e269f)
+
+
 ## Fourth Section: Polar Coordinates - Team Work
 ### Procedural Polar Coordinates
 Tiling Textures based on Polar coordinates (Additional Center option)
