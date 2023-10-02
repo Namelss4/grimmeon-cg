@@ -1,0 +1,5 @@
+#ifndef MAIN_LIGHT_INCLUDED
+#define MAIN_LIGHT_INCLUDED
+
+
+#endif
