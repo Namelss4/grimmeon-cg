@@ -22,6 +22,12 @@ Shader Graph:
 Shader Graph:
 ![NodesRefraction](RefractionNodes.png)
 
+### Smoke
+![Smoke](CG-Smoke.gif)
+
+Shader Graph:
+![NodesSmoke](CG-SmokeNodes.png)
+
 ## Third Section: Erosion - Jerónimo Cano Álvarez
 ### Dissolve pre-made texture
 ![Premade](DissolvePreMade.gif)
