@@ -1,6 +1,22 @@
 # Grimmeon: Computación Gráfica
 Grimmeon studio's repo specifically made for computación gráfica.
-# Second group project: Shaders
+# Second group project: Water shader & illumination (lighting)
+## Whole effect video
+
+## Requirements step by step
+### 1. Animated displacement
+
+### 2. Refraction
+
+### 3. Color based on depth
+
+### 4. Specular lighting (with normal maps)
+
+### 5. Reflections (Cubemaps)
+
+### 6. Intersections (Foam)
+
+# Class activity: Shaders
 ## First Section: Masks - Juan Pablo Correa
 ### Multi-Channel Mask
 Material changing the 3 RBG chanels based on masks
