@@ -21,7 +21,8 @@ Shader Graph:
 ![3-waterDepth](https://github.com/Namelss4/grimmeon-cg/assets/82065985/74b1529f-ba8f-405b-b260-dab4475a5755)
 
 Shader Graph:
-![3](https://github.com/Namelss4/grimmeon-cg/assets/82065985/1dc0d52e-b979-4406-9e2c-97f9294cb025)
+![image](https://github.com/Namelss4/grimmeon-cg/assets/82065985/664b0009-8709-440d-9f76-7c278ee57348)
+
 
 
 ### 4. Specular lighting (with normal maps)
@@ -32,7 +33,8 @@ Shader Graph:
 ![ezgif com-optimize](https://github.com/Namelss4/grimmeon-cg/assets/82065985/fa2edc67-0a95-494c-b0de-e1f6c93ecb4a)
 
 Shader graph: 
-![4](https://github.com/Namelss4/grimmeon-cg/assets/82065985/c1d3147c-f9b0-44a6-b854-614cb11b8cbd)
+![image](https://github.com/Namelss4/grimmeon-cg/assets/82065985/f6d842e9-b3be-44dc-94e7-cfb44cf0524d)
+
 
 
 
