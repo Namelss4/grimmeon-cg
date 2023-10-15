@@ -7,12 +7,21 @@ Grimmeon studio's repo specifically made for computación gráfica.
 ### 1. Animated displacement
 ![1-Waves-min](https://github.com/Namelss4/grimmeon-cg/assets/82065985/1f4db27d-44fb-4458-a7d9-28f5cb2fefc9)
 
+Shader Graph:
+![1](https://github.com/Namelss4/grimmeon-cg/assets/82065985/c0f3546e-2d09-43fb-8506-0dad3d57e49a)
+
+
 ### 2. Refraction
 ![2-Refractiongif](https://github.com/Namelss4/grimmeon-cg/assets/82065985/ba605acc-dc32-457a-b580-ae55282f3091)
+Shader Graph:
+![2](https://github.com/Namelss4/grimmeon-cg/assets/82065985/9d37d30a-4bf4-4443-bf9c-3826e64938fe)
 
 
 ### 3. Color based on depth
 ![3-waterDepth](https://github.com/Namelss4/grimmeon-cg/assets/82065985/74b1529f-ba8f-405b-b260-dab4475a5755)
+
+Shader Graph:
+![3](https://github.com/Namelss4/grimmeon-cg/assets/82065985/1dc0d52e-b979-4406-9e2c-97f9294cb025)
 
 
 ### 4. Specular lighting (with normal maps)
@@ -21,6 +30,10 @@ Grimmeon studio's repo specifically made for computación gráfica.
 
 ### 6. Intersections (Foam)
 ![ezgif com-optimize](https://github.com/Namelss4/grimmeon-cg/assets/82065985/fa2edc67-0a95-494c-b0de-e1f6c93ecb4a)
+
+Shader graph: 
+![4](https://github.com/Namelss4/grimmeon-cg/assets/82065985/c1d3147c-f9b0-44a6-b854-614cb11b8cbd)
+
 
 
 # Class activity: Shaders
