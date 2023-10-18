@@ -65,13 +65,13 @@ Material:
     - _ZTest: 4
     - _ZWrite: 1
     - _ZWriteControl: 0
-    - _x: 0.21
+    - _x: 0.27
     m_Colors:
     - _Distortion_Speed: {r: 0.17, g: 0.2, b: 0, a: 0}
     - _FresnelSmoothStep: {r: 0.9, g: 0, b: 0, a: 0}
     - _IntersectionColor: {r: 1.0450016, g: 1.5091305, b: 1.4309722, a: 1}
     - _IntersectionSmoothStep: {r: 0.03, g: 0.47, b: 0, a: 0}
-    - _WaterColor: {r: 0.59985757, g: 0.9433962, b: 0.9305537, a: 1}
+    - _WaterColor: {r: 0.44868279, g: 0.8432118, b: 0.8584906, a: 1}
     - _deepWaterColor: {r: 0.18561764, g: 0.42088395, b: 0.745283, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &7556755386344839426
