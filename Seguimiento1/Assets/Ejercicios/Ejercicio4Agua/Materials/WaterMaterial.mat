@@ -46,7 +46,7 @@ Material:
     - _Blend: 0
     - _CastShadows: 1
     - _Cull: 0
-    - _DistortionStrenght: 0.51
+    - _DistortionStrenght: 1.08
     - _DstBlend: 0
     - _NumerX: 0
     - _QueueControl: 0
@@ -56,23 +56,23 @@ Material:
     - _Surface: 0
     - _Timming: 1
     - _WaveAmplitud: 0.031
-    - _WaveDensity: 2.67
+    - _WaveDensity: 3.93
     - _WaveFrecuency: 0
-    - _WaveScale: 5.67
-    - _WaveSpeed: 2.23
+    - _WaveScale: 4.78
+    - _WaveSpeed: 4.39
     - _XMovement: -0.08
     - _YMovement: -0.03
     - _ZTest: 4
     - _ZWrite: 1
     - _ZWriteControl: 0
-    - _x: 2.28
+    - _x: 0.21
     m_Colors:
-    - _Distortion_Speed: {r: 0.2, g: 0.2, b: 0, a: 0}
+    - _Distortion_Speed: {r: 0.17, g: 0.2, b: 0, a: 0}
     - _FresnelSmoothStep: {r: 0.9, g: 0, b: 0, a: 0}
-    - _IntersectionColor: {r: 0.42574695, g: 1.0039217, b: 0.93559206, a: 1}
+    - _IntersectionColor: {r: 1.0450016, g: 1.5091305, b: 1.4309722, a: 1}
     - _IntersectionSmoothStep: {r: 0.03, g: 0.47, b: 0, a: 0}
-    - _WaterColor: {r: 0.4509804, g: 0.8432163, b: 0.8784314, a: 1}
-    - _deepWaterColor: {r: 0.089765206, g: 0.08775366, b: 0.6415094, a: 1}
+    - _WaterColor: {r: 0.59985757, g: 0.9433962, b: 0.9305537, a: 1}
+    - _deepWaterColor: {r: 0.18561764, g: 0.42088395, b: 0.745283, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &7556755386344839426
 MonoBehaviour:
