@@ -28,6 +28,12 @@ Shader Graph:
 ### 4. Specular lighting (with normal maps)
 
 ### 5. Reflections (Cubemaps)
+![5-WaterCubeMap](https://github.com/Namelss4/grimmeon-cg/assets/83317226/5113e9c7-09a0-4920-b34b-f929ad657678)
+
+
+Shader Graph:
+![CubeMapNode](https://github.com/Namelss4/grimmeon-cg/assets/83317226/9d882d35-f993-4431-83db-27ae791b5150)
+
 
 ### 6. Intersections (Foam)
 ![ezgif com-optimize](https://github.com/Namelss4/grimmeon-cg/assets/82065985/fa2edc67-0a95-494c-b0de-e1f6c93ecb4a)
