@@ -51,7 +51,7 @@ Material:
     - _NumerX: 0
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Roughness: 0
+    - _Roughness: 0.811
     - _SrcBlend: 1
     - _Surface: 0
     - _Timming: 1
@@ -65,7 +65,7 @@ Material:
     - _ZTest: 4
     - _ZWrite: 1
     - _ZWriteControl: 0
-    - _x: 0.27
+    - _x: 1.29
     m_Colors:
     - _Distortion_Speed: {r: 0.17, g: 0.2, b: 0, a: 0}
     - _FresnelSmoothStep: {r: 0.9, g: 0, b: 0, a: 0}
