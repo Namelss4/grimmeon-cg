@@ -38,9 +38,13 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _AbsolutePixelOffset: 0
     - _Filter_Intesity: 0
+    - _PixelsOffset: 50
     - _X_Offset: 0
     - _Y_Offset: 0
     - _Z_Offset: 0
-    m_Colors: []
+    m_Colors:
+    - _IndividualChannerOffset: {r: 0.5, g: 1, b: 1.5, a: 0}
+    - _RelativeChannerOffset: {r: 1, g: 1.2, b: 1.4, a: 0}
   m_BuildTextureStacks: []
