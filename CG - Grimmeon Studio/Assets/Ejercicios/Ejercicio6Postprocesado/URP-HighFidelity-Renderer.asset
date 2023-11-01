@@ -47,7 +47,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b00045f12942b46c698459096c89274e, type: 3}
   m_Name: ChromaticAberration
   m_EditorClassIdentifier: 
-  m_Active: 1
+  m_Active: 0
   passMaterial: {fileID: 2100000, guid: 038f6bf035bc08142ade4501fd5a8c57, type: 2}
   injectionPoint: 600
   requirements: 4
@@ -144,8 +144,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 83727bf8149d4cd45bf676100f15c0a1, type: 3}
   m_Name: MultiPassGaussianBlurG1
   m_EditorClassIdentifier: 
-  m_Active: 0
-  passCount: 1
+  m_Active: 1
+  passCount: 16
   pixelOffset: 0
   renderMaterial: {fileID: 2100000, guid: 68899d8ecd3de84478491c1acae2e7e1, type: 2}
 --- !u!114 &7596638422149684560
