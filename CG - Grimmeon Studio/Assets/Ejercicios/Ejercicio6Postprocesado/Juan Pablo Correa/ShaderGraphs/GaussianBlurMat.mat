@@ -59,11 +59,11 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _AppertureStart: -3
-    - _FocalDistance: 0
-    - _PixelOffset: 0
+    - _AppertureStart: 22.1
+    - _FocalDistance: 35.87
+    - _PixelOffset: 0.75
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Smoothness: 0
+    - _Smoothness: 3.35
     m_Colors: []
   m_BuildTextureStacks: []

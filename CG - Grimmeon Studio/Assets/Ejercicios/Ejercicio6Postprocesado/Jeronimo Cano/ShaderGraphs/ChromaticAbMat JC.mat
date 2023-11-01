@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Chromatic Aberration Material
+  m_Name: ChromaticAbMat JC
   m_Shader: {fileID: -6465566751694194690, guid: 0d8146a8eb450d34bb52192c83d0f7b5,
     type: 3}
   m_Parent: {fileID: 0}
@@ -40,11 +40,11 @@ Material:
     m_Floats:
     - _AbsolutePixelOffset: 0
     - _Filter_Intesity: 0
-    - _PixelsOffset: 37
+    - _PixelsOffset: 30.4
     - _X_Offset: 0
     - _Y_Offset: 0
     - _Z_Offset: 0
     m_Colors:
-    - _IndividualChannerOffset: {r: -0.2, g: 0, b: 0.2, a: 0}
+    - _IndividualChannerOffset: {r: 0.5, g: 1, b: 1.5, a: 0}
     - _RelativeChannerOffset: {r: 1, g: 1.2, b: 1.4, a: 0}
   m_BuildTextureStacks: []
