@@ -11,13 +11,28 @@ Grimmeon studio's repo specifically made for computación gráfica.
 ShaderGraph:
 ![ShaderGraph-ChromaticAb](https://github.com/Namelss4/grimmeon-cg/assets/82065985/8c3a9502-4b34-4e4f-a440-e0ff210137dc)
 
+### 2. Gaussian Depth Of Field
+![GaussianDepthOfField](https://github.com/Namelss4/grimmeon-cg/assets/82065985/cfff7010-325f-4196-9bbc-01c54715f103)
+
+ShaderGraph:
+![Sg gaussianBlur](https://github.com/Namelss4/grimmeon-cg/assets/82065985/c71ce67b-0bf2-444f-bb28-5b9a8aeaf688)
+
 
 ## Jerónimo Cano Álvarez
 
 ### 1. Chromatic Aberration
+![Aberrasra](https://github.com/Namelss4/grimmeon-cg/assets/82065985/d917cd72-861a-4032-936b-e6f7bdd48a30)
 
 
 ShaderGraph:
+![SG aberration](https://github.com/Namelss4/grimmeon-cg/assets/82065985/12c94f27-4898-4817-8b50-65ef3f821709)
+
+### 2. Gaussian Depth Of Field
+![DepthMov](https://github.com/Namelss4/grimmeon-cg/assets/82065985/6d454384-f54a-41ab-83cd-754a832a95fd)
+
+
+ShaderGraph:
+![SG Dehpt](https://github.com/Namelss4/grimmeon-cg/assets/82065985/36e0322d-a04d-489b-8abf-46e19ad404bc)
 
 
 # Second group project: Water shader & illumination (lighting)
