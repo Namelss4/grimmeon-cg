@@ -1,5 +1,25 @@
 # Grimmeon: Computación Gráfica
 Grimmeon studio's repo specifically made for computación gráfica.
+
+# Class Activity 2: Post-Processing
+## Juan Pablo Correa
+
+### 1. Chromatic Aberration
+![Aberration-min](https://github.com/Namelss4/grimmeon-cg/assets/82065985/43c0a3d0-35e7-4b87-9b4c-324b41348689)
+
+
+ShaderGraph:
+![ShaderGraph-ChromaticAb](https://github.com/Namelss4/grimmeon-cg/assets/82065985/8c3a9502-4b34-4e4f-a440-e0ff210137dc)
+
+
+## Jerónimo Cano Álvarez
+
+### 1. Chromatic Aberration
+
+
+ShaderGraph:
+
+
 # Second group project: Water shader & illumination (lighting)
 ## Whole effect video
 
