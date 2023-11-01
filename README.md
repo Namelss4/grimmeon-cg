@@ -12,7 +12,7 @@ ShaderGraph:
 ![ShaderGraph-ChromaticAb](https://github.com/Namelss4/grimmeon-cg/assets/82065985/8c3a9502-4b34-4e4f-a440-e0ff210137dc)
 
 ### 2. Gaussian Depth Of Field
-![GaussianDepthOfField](https://github.com/Namelss4/grimmeon-cg/assets/82065985/cfff7010-325f-4196-9bbc-01c54715f103)
+![ezgif com-video-to-gif](https://github.com/Namelss4/grimmeon-cg/assets/82065985/6e3a6fec-497f-45b0-a983-ec83fbbe3030)
 
 ShaderGraph:
 ![Sg gaussianBlur](https://github.com/Namelss4/grimmeon-cg/assets/82065985/c71ce67b-0bf2-444f-bb28-5b9a8aeaf688)
